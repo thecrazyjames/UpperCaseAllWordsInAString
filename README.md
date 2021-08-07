@@ -1,3 +1,5 @@
+FreeCodeCamp Solutions for Basic Algorithmic Scripting
+
 # UpperCaseAllWordsInAString
 
 This is a script for turning the first letter of every word into a string into a capital letter and all other characters to lower case.
